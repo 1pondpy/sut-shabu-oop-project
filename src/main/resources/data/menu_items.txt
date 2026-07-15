@@ -1,0 +1,9 @@
+1|pork_belly.png|หมูสามชั้นสไลซ์|true|เนื้อสัตว์
+2|pork_neck.jpg|สันคอหมูสไลซ์|true|เนื้อสัตว์
+3|marinated_pork.png|หมูหมักนุ่ม|true|เนื้อสัตว์
+4|pork_loin.png|สันนอกสไลซ์|true|เนื้อสัตว์
+5|pork_ribs.png|เนื้อซี่โครง|true|เนื้อสัตว์
+6|beef_belly.png|เนื้อวัวสามชั้น|true|เนื้อสัตว์
+7|ribeye.png|ริบอาย|true|เนื้อสัตว์
+8|pork_liver.png|ตับหมู|true|เนื้อสัตว์
+9|morning_glory.jpg|ผักบุ้ง|true|ผัก
