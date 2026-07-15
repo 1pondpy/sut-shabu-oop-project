@@ -1,6 +1,6 @@
 # SUT Shabu Management System
 
-A comprehensive web-based restaurant management application developed as a core project for the **Object-Oriented Programming (OOP)** course. This system streamlines order workflows between customers and kitchen staff, while enhancing the dining experience through an integrated gamification module.
+A comprehensive web-based restaurant management application developed as a core project for the **PROJECT IN OBJECT-ORIENTED PROGRAMMING AND DATA STRUCTURES** course. This system streamlines order workflows between customers and kitchen staff, while enhancing the dining experience through an integrated gamification module.
 
 ## Key Features
 
@@ -15,6 +15,9 @@ A comprehensive web-based restaurant management application developed as a core 
 *   **Server:** Apache Tomcat
 *   **Frontend:** HTML5, CSS3, JavaScript
 *   **Database:** Flat-file Storage (Text-based)
+
+## Language Support
+* **System Language:** The user interface of this web application is currently fully implemented in **Thai**.
 
 ## System Architecture (Class Entities)
 
